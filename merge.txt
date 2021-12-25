@@ -1,1 +1,1 @@
-1st line content in merge.txt
+replacing the contents of the file
