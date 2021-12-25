@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 append some lines to merge.txt
+replacing the contents of the file
+>>>>>>> merge_branch
